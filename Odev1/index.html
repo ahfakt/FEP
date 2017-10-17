@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<style>
+			h1 {
+				text-align: center;
+				width: 100%;
+			}
+			.menu-item {
+				float: left;
+				text-align: center;
+			}
+			.col3 {
+				background-color: #f00;
+				width: 33%;
+			}
+			@media (min-width: 950px) and (max-width: 1199px) {
+				.col1 {
+					background-color: #00f;
+					width: 100%;
+				}
+				.col2 {
+					background-color: #0f0;
+					width: 50%;
+				}
+			}
+			@media (max-width: 949px) {
+				.col1 {
+					background-color: #00f;
+					width: 100%;
+				}
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Menu</h1>
+		<div class="menu-item col3 col2 col1"><h2>Menu Item 1</h2></div>
+		<div class="menu-item col3 col2 col1"><h2>Menu Item 2</h2></div>
+		<div class="menu-item col3 col1"><h2>Menu Item 3</h2></div>
+	</body>
+</html>
