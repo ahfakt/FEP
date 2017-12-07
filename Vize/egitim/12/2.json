@@ -1,0 +1,17 @@
+{"title":"Yüksek Lisans Eğitim Programı Bahar Dönemi(2. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","","",""],
+	["09:30 - 10:15","Programlama Paradigmaları (B1)","","","",""],
+	["10:30 - 11:15","Programlama Paradigmaları (B1)","","","",""],
+	["11:30 - 12:15","Programlama Paradigmaları (B1)","","","",""],
+	["13:15 - 14:00","Anlamsal Web Servisleri (B1)","Zeki Sistemler (B1)","Biyoinformatik Algoritmaları (B2)","","Bilgisayar Ağı Tasarımı ve Yönetimi (B1)"],
+	["14:15 - 15:00","Anlamsal Web Servisleri (B1)","Zeki Sistemler (B1)","Biyoinformatik Algoritmaları (B2)","","Bilgisayar Ağı Tasarımı ve Yönetimi (B1)"],
+	["15:15 - 16:00","Anlamsal Web Servisleri (B1)","Zeki Sistemler (B1)","Biyoinformatik Algoritmaları (B2)","","Bilgisayar Ağı Tasarımı ve Yönetimi (B1)"],
+	["16:15 - 17:00","","","","",""],
+	["17:15 - 18:00","","","","",""]
+]
+}

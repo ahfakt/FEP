@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Bahar Dönemi 3. Yıl(6. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"Microcontroller Based System Design Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)","","","","Sistem Programlama (B8)"],
+	["09:30 - 10:15","Microcontroller Based System Design Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)","Web Tabanlı Windows Programlama (Sinan Yılmaz Lab.)","Analysis of Algorithms (B4)","","Sistem Programlama (B8)"],
+	["10:30 - 11:15","Microcontroller Based System Design Uyg. [Grup 2] (Sinan Yılmaz Lab.) (Ege Lab.)","Web Tabanlı Windows Programlama (Sinan Yılmaz Lab.)","Analysis of Algorithms (B4)","Microcontroller Based System Design (B8)","Sistem Programlama Uyg. (B8)"],
+	["11:30 - 12:15","Microcontroller Based System Design Uyg. [Grup 2] (Sinan Yılmaz Lab.) (Ege Lab.)","Web Tabanlı Windows Programlama (Sinan Yılmaz Lab.)","Analysis of Algorithms (B4)","Microcontroller Based System Design (B8)","Sistem Programlama Uyg. (B8)"],
+	["13:15 - 14:00","Kriptoloji (Sadece Alttan Alan Öğr. ve Müh. Tamamlama Öğr. için) (B8)","Object Oriented Analysis and Design (B4)","Bilgisayar Grafikleri (B4)","Sunucu Yazılım Teknolojileri (Ege Lab.) (Sinan Yılmaz Lab.) (B8) / Ağ Teknolojileri (B7)","Ontoloji Mühendisliği (B8)"],
+	["14:15 - 15:00","Kriptoloji (Sadece Alttan Alan Öğr. ve Müh. Tamamlama Öğr. için) (B8)","Object Oriented Analysis and Design (B4)","Bilgisayar Grafikleri (B4)","Sunucu Yazılım Teknolojileri (Ege Lab.) (Sinan Yılmaz Lab.) (B8) / Ağ Teknolojileri (B7)","Ontoloji Mühendisliği (B8)"],
+	["15:15 - 16:00","Kriptoloji (Sadece Alttan Alan Öğr. ve Müh. Tamamlama Öğr. için) (B8)","Object Oriented Analysis and Design (B4)","Bilgisayar Grafikleri (B4)","Sunucu Yazılım Teknolojileri (Ege Lab.) (Sinan Yılmaz Lab.) (B8) / Ağ Teknolojileri (B7)","Ontoloji Mühendisliği (B8)"],
+	["16:15 - 17:00","","","","",""],
+	["17:15 - 18:00","","","","",""]
+]
+}

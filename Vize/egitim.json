@@ -1,0 +1,7 @@
+{"title":"Eğitim Programları",
+"description":"",
+"snippet":"snippets/category",
+"content":
+	[{"id":11,"name":"Lisans","type":"Categories","url":"egitim/11"},
+	{"id":12,"name":"Yuksek Lisans","type":"Categories","url":"egitim/12"}]
+}

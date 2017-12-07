@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Bahar Dönemi 2. Yıl(4. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","","",""],
+	["09:30 - 10:15","","","Programming Languages (B7)","Doğrusal Cebir ve Nümerik Yöntemler (B4)","Modern Biyoloji (B6)"],
+	["10:30 - 11:15","Digital Electronics Lab. [Grup 1] (Elektronik Lab.)","Digital Electronics Lab. [Grup 2] (Elektronik Lab.)","Programming Languages (B7)","Doğrusal Cebir ve Nümerik Yöntemler (B4)","Modern Biyoloji (B6)"],
+	["11:30 - 12:15","Digital Electronics Lab. [Grup 1] (Elektronik Lab.)","Digital Electronics Lab. [Grup 2] (Elektronik Lab.)","Programming Languages (B7)","Doğrusal Cebir ve Nümerik Yöntemler (B4)","Modern Biyoloji (B6)"],
+	["13:15 - 14:00","Programming Languages Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)","Digital Computer Design (B6)","Doğrusal Cebir ve Nümerik Yöntemler Uyg. [Grup 2] (Ege Lab.) (Sinan Yılmaz Lab.)","Digital Computer Design Uyg. [Grup 1] (Elektronik Lab.)","Digital Electronics (B6) / Digital Computer Design Uyg. [Grup 3] (Elektronik Lab.)"],
+	["14:15 - 15:00","Programming Languages Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)","Digital Computer Design (B6)","Doğrusal Cebir ve Nümerik Yöntemler Uyg. [Grup 2] (Ege Lab.) (Sinan Yılmaz Lab.)","Digital Computer Design Uyg. [Grup 1] (Elektronik Lab.)","Digital Electronics (B6) / Digital Computer Design Uyg. [Grup 3] (Elektronik Lab.)"],
+	["15:15 - 16:00","Programming Languages Uyg. [Grup 2] (Sinan Yılmaz Lab.) (Ege Lab.)","Digital Computer Design (B6)","Topluma Hizmet Uygulamaları (B8)","Digital Computer Design Uyg. [Grup 2] (Elektronik Lab.)","Doğrusal Cebir ve Nümerik Yöntemler Uyg. [Grup 3] (Ege Lab.) (Sinan Yılmaz Lab.) / Digital Computer Design Uyg. [Grup 4] (Elektronik Lab.)"],
+	["16:15 - 17:00","Programming Languages Uyg. [Grup 3] (Sun Lab.) / Programming Languages Uyg. [Grup 2] (Sinan Yılmaz Lab.) (Ege Lab.)","Doğrusal Cebir ve Nümerik Yöntemler Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)","","Digital Computer Design Uyg. [Grup 2] (Elektronik Lab.)","Doğrusal Cebir ve Nümerik Yöntemler Uyg. [Grup 3] (Ege Lab.) (Sinan Yılmaz Lab.) / Digital Computer Design Uyg. [Grup 4] (Elektronik Lab.)"],
+	["17:15 - 18:00","Programming Languages Uyg. [Grup 3] (Sun Lab.)","Doğrusal Cebir ve Nümerik Yöntemler Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)","","",""]
+]
+}

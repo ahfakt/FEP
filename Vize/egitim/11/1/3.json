@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Güz Dönemi 3. Yıl(5. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","Mikroişlemciler Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)","",""],
+	["09:30 - 10:15","","Windows Programlama (Sinan Yılmaz Lab.) (B7)","Mikroişlemciler Uyg. [Grup 2] (Ege Lab.) (Sinan Yılmaz Lab.)","Database Management (B4)",""],
+	["10:30 - 11:15","","Windows Programlama (Sinan Yılmaz Lab.) (B7)","Mikroişlemciler Uyg. [Grup 3] (Ege Lab.) (Sinan Yılmaz Lab.)","Database Management (B4)","Database Management Uyg. (B4)"],
+	["11:30 - 12:15","","Windows Programlama (Sinan Yılmaz Lab.) (B7)","Mikroişlemciler Uyg. [Grup 4] (Ege Lab.) (Sinan Yılmaz Lab.)","Database Management (B4)","Database Management Uyg. (B4)"],
+	["13:15 - 14:00","Üstortam Programlama (Sinan Yılmaz Lab.) (B8)","Mikroişlemciler (B6)","Nesneye Dayalı Programlama (B4)","Bilgisayar Ağları (B4)","İşletim Sistemleri (B4)"],
+	["14:15 - 15:00","Üstortam Programlama (Sinan Yılmaz Lab.) (B8)","Mikroişlemciler (B6)","Nesneye Dayalı Programlama (B4)","Bilgisayar Ağları (B4)","İşletim Sistemleri (B4)"],
+	["15:15 - 16:00","Üstortam Programlama (Sinan Yılmaz Lab.) (B8)","Mikroişlemciler (B6)","Nesneye Dayalı Programlama (B4)","Bilgisayar Ağları (B4)","İşletim Sistemleri (B4)"],
+	["16:15 - 17:00","","","","",""],
+	["17:15 - 18:00","","","","",""]
+]
+}

@@ -1,0 +1,8 @@
+{"title":"Personel",
+"description":"",
+"snippet":"snippets/category",
+"content":
+	[{"id":21,"name":"Öğretim Üyeleri","type":"Items","url":"personel/21"},
+	{"id":22,"name":"Akademik Yardımcı","type":"Items","url":"personel/22"},
+	{"id":23,"name":"İdari Teknik","type":"Items","url":"personel/23"}]
+}

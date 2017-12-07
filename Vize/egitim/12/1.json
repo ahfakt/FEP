@@ -1,0 +1,17 @@
+{"title":"Yüksek Lisans Eğitim Programı Güz Dönemi(1. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","","",""],
+	["09:30 - 10:15","Yapay Zeka (B1)","Model Tabanlı Yazılım Müh. (B1) / Büyük Veri (B2) / İleri Algoritma Analizi (B9 Netsis)","Sayısal Görüntü İşleme (Sun Lab.)","Bilgisayar Uyg. Çizge Kuramı (B2) / Dağıtık Sistemler için Algoritmalar (B1)","Sistem Benzetimi (B1) / Mobil ve Kablosuz Ağlar (B2)"],
+	["10:30 - 11:15","Yapay Zeka (B1)","Model Tabanlı Yazılım Müh. (B1) / Büyük Veri (B2) / İleri Algoritma Analizi (B9 Netsis)","Sayısal Görüntü İşleme (Sun Lab.)","Bilgisayar Uyg. Çizge Kuramı (B2) / Dağıtık Sistemler için Algoritmalar (B1)","Sistem Benzetimi (B1) / Mobil ve Kablosuz Ağlar (B2)"],
+	["11:30 - 12:15","Yapay Zeka (B1)","Model Tabanlı Yazılım Müh. (B1) / Büyük Veri (B2) / İleri Algoritma Analizi (B9 Netsis)","Sayısal Görüntü İşleme (Sun Lab.)","Bilgisayar Uyg. Çizge Kuramı (B2) / Dağıtık Sistemler için Algoritmalar (B1)","Sistem Benzetimi (B1) / Mobil ve Kablosuz Ağlar (B2)"],
+	["13:15 - 14:00","","Bilimsel Araştırma ve Yayın Etiği (YL) (B1)","Dağıtık Sistemler (B1)","Bilimsel Araştırma ve Yayın Etiği (DR) (B1)","Bilgisayar Ağı İşletim Sistemleri (B1)"],
+	["14:15 - 15:00","","Bilimsel Araştırma ve Yayın Etiği (YL) (B1)","Dağıtık Sistemler (B1)","Bilimsel Araştırma ve Yayın Etiği (DR) (B1)","Bilgisayar Ağı İşletim Sistemleri (B1)"],
+	["15:15 - 16:00","","Bilimsel Araştırma ve Yayın Etiği (YL) (B1)","Dağıtık Sistemler (B1)","Bilimsel Araştırma ve Yayın Etiği (DR) (B1)","Bilgisayar Ağı İşletim Sistemleri (B1)"],
+	["16:15 - 17:00","","","","",""],
+	["17:15 - 18:00","","","","",""]
+]
+}

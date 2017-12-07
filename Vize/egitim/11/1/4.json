@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Güz Dönemi 4. Yıl(7. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"Temel Bankacılık ve Bilişim Teknolojileri (B7)","Bitirme Tezi Dönemlik","Bitirme Tezi Dönemlik","Bitirme Tezi Dönemlik","Bitirme Tezi Dönemlik"],
+	["09:30 - 10:15","Temel Bankacılık ve Bilişim Teknolojileri (B7)","Software Engineering (B4)	","","Yönetim Bilişim Sistemleri (B8) / Kriptoloji (B3)","Gömülü ve Gerçek Zamanlı Sist. (B7)"],
+	["10:30 - 11:15","","Software Engineering (B4)	","Software Engineering Uyg. [Grup 3] (B9 Netsis)","Yönetim Bilişim Sistemleri (B8) / Kriptoloji (B3)","Gömülü ve Gerçek Zamanlı Sist. (B7)"],
+	["11:30 - 12:15","","Software Engineering (B4)	","Software Engineering Uyg. [Grup 3] (B9 Netsis)","Yönetim Bilişim Sistemleri (B8) / Kriptoloji (B3)","Gömülü ve Gerçek Zamanlı Sist. (B7)"],
+	["13:15 - 14:00","Software Engineering Uyg. [Grup 1] (B9 Netsis) (B6) (Ege Lab.) (Sun Lab.)","Bilgi Gösterimi (B3)","Halkla İlişkiler (B7) / Girişimcilik ve Etik (Tekstil Müh. 55. Yıl Konferans Salonu)","İş Sağlığı ve Güvenliği I (B8)","Veri Madenciliği (B7)"],
+	["14:15 - 15:00","Software Engineering Uyg. [Grup 1] (B9 Netsis) (B6) (Ege Lab.) (Sun Lab.)","Bilgi Gösterimi (B3)","Halkla İlişkiler (B7) / Girişimcilik ve Etik (Tekstil Müh. 55. Yıl Konferans Salonu)","İş Sağlığı ve Güvenliği I (B8)","Veri Madenciliği (B7)"],
+	["15:15 - 16:00","Software Engineering Uyg. [Grup 2] (B9 Netsis) (Ege Lab.) (Sun Lab.)","Bilgi Gösterimi (B3)","Mühendisler İçin Temel Yönetim ve Yöneticilik Becerileri (Tekstil 320)","","Veri Madenciliği (B7)"],
+	["16:15 - 17:00","Software Engineering Uyg. [Grup 2] (B9 Netsis) (Ege Lab.) (Sun Lab.)","","Mühendisler İçin Temel Yönetim ve Yöneticilik Becerileri (Tekstil 320)","Bitirme Tezi Dönemlik / Bitirme Tezi","Bitirme Tezi Dönemlik / Bitirme Tezi"],
+	["17:15 - 18:00","","","İnovasyon, Teknoloji ve Girişimcilik (EBİLTEM-TTO Konferans Salonu)","İş Sağlığı ve Güvenliği I (B8)",""]
+]
+}

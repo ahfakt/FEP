@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Güz Dönemi 1. Yıl(1. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","","","Algoritma ve Programlama I Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)"],
+	["09:30 - 10:15","Algoritma ve Programlama I (B4)","Fizik I [Tek No] (B6) / Fizik I [Çift No] (B3)","Matematik I (B6)","Technical English (B7)","Algoritma ve Programlama I Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)"],
+	["10:30 - 11:15","Algoritma ve Programlama I (B4)","Fizik I [Tek No] (B6) / Fizik I [Çift No] (B3)","Matematik I (B6)","Technical English (B7)","Algoritma ve Programlama I Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)"],
+	["11:30 - 12:15","Algoritma ve Programlama I (B4)","Fizik I [Tek No] (B6) / Fizik I [Çift No] (B3)","Matematik I (B6)","Technical English (B7)","Algoritma ve Programlama I Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)"],
+	["13:15 - 14:00","Türk Dili I [Tek No] (B3) / Türk Dili I [Çift No] (B7)","Atatürk İlkeleri ve İnkılap Tarihi I [Tek No] (B7) / Atatürk İlkeleri ve İnkılap Tarihi I [Çift No] (B8)","Matematik I Uyg. (B6)","","Algoritma ve Programlama I Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)"],
+	["14:15 - 15:00","Türk Dili I [Tek No] (B3) / Türk Dili I [Çift No] (B7)","Atatürk İlkeleri ve İnkılap Tarihi I [Tek No] (B7) / Atatürk İlkeleri ve İnkılap Tarihi I [Çift No] (B8)","Matematik I Uyg. (B6)","","Algoritma ve Programlama I Uyg. [Grup 1] (Sinan Yılmaz Lab.) (Ege Lab.)"],
+	["15:15 - 16:00","Fizik I Uyg. [Grup 1] (Makina Z04)","Bilgisayar Mühendisliğine Giriş (Sadece Alttan Alan Öğrenciler için) (B7)","Sözlü ve Yazılı İletişim (B7)","Fizik I Uyg. [Grup 2] (Makina Z04)","Fizik I Uyg. [Grup 3] (Makina Z04)"],
+	["16:15 - 17:00","Fizik I Uyg. [Grup 1] (Makina Z04)","Üniversite Yaşamına Geçiş (B4)","Sözlü ve Yazılı İletişim (B7)","Fizik I Uyg. [Grup 2] (Makina Z04)","Fizik I Uyg. [Grup 3] (Makina Z04)"],
+	["17:15 - 18:00","","","","",""]
+]
+}

@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Güz Dönemi 2. Yıl(3. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"Mantık Devreleri Tasarımı Lab. [Grup 1] (Elektronik Lab.)","","","Olasılık ve İstatistik Uyg. [Grup 1] (Sinan Yılmaz Lab.) / Electrical Circuits Lab. [Grup 2] (Elektronik Lab.)","Mantık Devreleri Tasarımı Lab. [Grup 4] (Elektronik Lab.)"],
+	["09:30 - 10:15","Mantık Devreleri Tasarımı Lab. [Grup 1] (Elektronik Lab.)","Electrical Circuits (B8)","Olasılık ve İstatistik (B4)","Olasılık ve İstatistik Uyg. [Grup 2] (Sinan Yılmaz Lab.) / Electrical Circuits Lab. (Elektronik Lab.)","Diferansiyel Denklemler (B6) / Mantık Devreleri Tasarımı Lab. [Grup 4] (Elektronik Lab.)"],
+	["10:30 - 11:15","Electrical Circuits Lab. [Grup 1] (Elektronik Lab.)","Electrical Circuits (B8)","Olasılık ve İstatistik (B4)","Olasılık ve İstatistik Uyg. [Grup 3] (Sinan Yılmaz Lab.) / Electrical Circuits Lab. (Elektronik Lab.)","Diferansiyel Denklemler (B6)"],
+	["11:30 - 12:15","Electrical Circuits Lab. [Grup 1] (Elektronik Lab.)","Electrical Circuits (B8)","Olasılık ve İstatistik (B4)","Olasılık ve İstatistik Uyg. [Grup 4] (Sinan Yılmaz Lab.) / Electrical Circuits Lab. [Grup 3] (Elektronik Lab.)","Diferansiyel Denklemler (B6)"],
+	["13:15 - 14:00","Mantık Devreleri Tasarımı (B4)","Data Structures (B4)","Mantık Devreleri Tasarımı Lab. [Grup 2] (Elektronik Lab.)","","Automata Theory (B8)"],
+	["14:15 - 15:00","Mantık Devreleri Tasarımı (B4)","Data Structures (B4)","Mantık Devreleri Tasarımı Lab. [Grup 2] (Elektronik Lab.)","Data Structures Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)","Automata Theory (B8)"],
+	["15:15 - 16:00","Mantık Devreleri Tasarımı (B4)","Data Structures (B4)","Mantık Devreleri Tasarımı Lab. [Grup 3] (Elektronik Lab.)","Data Structures Uyg. [Grup 2] (Ege Lab.) (Sinan Yılmaz Lab.)","Automata Theory (B8)"],
+	["16:15 - 17:00","","","Mantık Devreleri Tasarımı Lab. [Grup 3] (Elektronik Lab.)","Data Structures Uyg. [Grup 3] (Ege Lab.) (Sinan Yılmaz Lab.)",""],
+	["17:15 - 18:00","","","","",""]
+]
+}

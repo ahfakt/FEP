@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Bahar Dönemi 4. Yıl(8. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","Bitirme Tezi Dönemlik / Bitirme Tezi","Bitirme Tezi Dönemlik","Bitirme Tezi Dönemlik"],
+	["09:30 - 10:15","Üretim Bilgi Sistemleri (B7)","Yöneylem Araştırması (B4)","İşlemsel Zeka (B8)","Yazılım Kullanılabilirliği (B7)","İş Sağlığı ve Güvenliği II (B7)"],
+	["10:30 - 11:15","Üretim Bilgi Sistemleri (B7)","Yöneylem Araştırması (B4)","İşlemsel Zeka (B8)","Yazılım Kullanılabilirliği (B7)","İş Sağlığı ve Güvenliği II (B7)"],
+	["11:30 - 12:15","Üretim Bilgi Sistemleri (B7)","Yöneylem Araştırması (B4)","İşlemsel Zeka (B8)","Yazılım Kullanılabilirliği (B7)",""],
+	["13:15 - 14:00","Computer Architecture (B4)","","Girişimcilik ve Etik (Tekstil Müh. 55. Yıl Konferans Salonu)","Ekonomi (B3)","Gerçek Zamanlı İşletim Sistemleri (B3)"],
+	["14:15 - 15:00","Computer Architecture (B4)","","Girişimcilik ve Etik (Tekstil Müh. 55. Yıl Konferans Salonu)","Ekonomi (B3)","Gerçek Zamanlı İşletim Sistemleri (B3)"],
+	["15:15 - 16:00","Computer Architecture (B4)","","Mühendisler İçin Temel Yönetim ve Yöneticilik Becerileri (Tekstil Müh. 55. Yıl Konferans Salonu) / İş Hukuku (B9 Netsis)","","Gerçek Zamanlı İşletim Sistemleri (B3)"],
+	["16:15 - 17:00","Bitirme Tezi Dönemlik / Bitirme Tezi","","Mühendisler İçin Temel Yönetim ve Yöneticilik Becerileri (Tekstil Müh. 55. Yıl Konferans Salonu) / İş Hukuku (B9 Netsis)","","Bitirme Tezi Dönemlik / Bitirme Tezi"],
+	["17:15 - 18:00","","","İnovasyonun Ticarileştirilmesi ve Girişimcilik (Tekstil 323)","Girişimcilik ve İş Planı Hazırlama (Tekstil 323)",""]
+]
+}

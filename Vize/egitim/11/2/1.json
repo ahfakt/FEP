@@ -1,0 +1,17 @@
+{"title":"Lisans Eğitim Programı Bahar Dönemi 1. Yıl(2. Yarıyıl) Ders Programı",
+"description":"",
+"snippet":"snippets/program",
+"content":
+[
+	["Saat","Pazartesi","Salı","Çarşamba","Perşembe","Cuma"],
+	["08:30 - 9:15" ,"","","","",""],
+	["09:30 - 10:15","Algoritma ve Programlama II (B4)","Fizik II [Grup 1] (B7) / Fizik II [Grup 2] (B8)","Matematik II (B6)","Ayrık Yapılar (B6)","Algoritma ve Programlama II Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)"],
+	["10:30 - 11:15","Algoritma ve Programlama II (B4)","Fizik II [Grup 1] (B7) / Fizik II [Grup 2] (B8)","Matematik II (B6)","Ayrık Yapılar (B6)","Algoritma ve Programlama II Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)"],
+	["11:30 - 12:15","Algoritma ve Programlama II (B4)","Fizik II [Grup 1] (B7) / Fizik II [Grup 2] (B8)","Matematik II (B6)","Ayrık Yapılar (B6)","Algoritma ve Programlama II Uyg. [Grup 1] (Ege Lab.) (Sinan Yılmaz Lab.)"],
+	["13:15 - 14:00","Türk Dili II [Çift No] (B3) / Türk Dili II [Tek No] (B7)","Atatürk İlkeleri ve İnkılap Tarihi II [Çift No] (B3) / Atatürk İlkeleri ve İnkılap Tarihi II [Tek No] (B7)","Matematik II Uyg. (B6)","Introduction to Computer Science (B4)","Algoritma ve Programlama II Uyg. [Grup 2] (Ege Lab.) (Sinan Yılmaz Lab.)"],
+	["14:15 - 15:00","Türk Dili II [Çift No] (B3) / Türk Dili II [Tek No] (B7)","Atatürk İlkeleri ve İnkılap Tarihi II [Çift No] (B3) / Atatürk İlkeleri ve İnkılap Tarihi II [Tek No] (B7)","Matematik II Uyg. (B6)","Introduction to Computer Science (B4)","Algoritma ve Programlama II Uyg. [Grup 2] (Ege Lab.) (Sinan Yılmaz Lab.)"],
+	["15:15 - 16:00","Fizik II Uyg. [Grup 1] (Makina Z04)","Fizik II Uyg. [Grup 2] (Makina Z04)","","Introduction to Computer Science (B4)","Algoritma ve Programlama II Uyg. [Grup 3] (Sun Lab.)"],
+	["16:15 - 17:00","Fizik II Uyg. [Grup 1] (Makina Z04)","Fizik II Uyg. [Grup 2] (Makina Z04)","","","Algoritma ve Programlama II Uyg. [Grup 3] (Sun Lab.)"],
+	["17:15 - 18:00","","","","",""]
+]
+}
