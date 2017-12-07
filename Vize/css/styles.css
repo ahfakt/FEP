@@ -86,22 +86,20 @@ body {
 }
 
 tr.per {
-	border: 1px solid #999999;
+height: 320px;
 }
-.pic {
+.inf {
 	padding: 10px;
-	background-color: #eeeeee;
+	line-height: 2em;
+	background-color: #263554;
 }
-.pic img {
+.inf img {
 	padding: 2px;
 	border:1px solid #8d8686;
     background-color: #951c49;
 }
-.inf {
-	padding: 25px;
-	line-height: 2em;
-	background-color: #263554;
-	width: 100%;
+.social-button {
+	float:left;
 }
 
 /* FOOTER */
